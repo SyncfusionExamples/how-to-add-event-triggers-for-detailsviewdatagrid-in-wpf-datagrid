@@ -21,6 +21,7 @@ private void OnDataGrid_DetailsViewLoading(object sender, DetailsViewLoadingAndU
 }
 
 ```
+KB article: [How to add Event Triggers for DetailsViewDataGrid in WPF DataGrid (SfDataGrid)?](https://www.syncfusion.com/kb/12816/how-to-add-event-triggers-for-detailsviewdatagrid-in-wpf-datagrid-sfdatagrid) - [Demo](https://github.com/SyncfusionExamples/how-to-add-event-triggers-for-detailsviewdatagrid-in-wpf-datagrid/edit/main/README.md)
 
 ## Requirements to run the demo
 
